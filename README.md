@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`The-Outer-Worlds-Save-Editor` · Updated: 2026-10-07
+`The-Outer-Worlds-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `outer-worlds` `save-editor` `rpg` `obsidian` `windows`
